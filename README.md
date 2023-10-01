@@ -14,7 +14,7 @@ I'm a tech enthusiast from Indonesia with a knack for programming, cloud computi
 - **[Icomoji](https://icomoji.far.st)**: A unique platform enabling the creation of biolink websites through emoji usernames. (Currently closed source)
 
 ## Contact Me 📫
-- **Website:** [emoji.far.st/💎🙌](https://emoji.far.st/💎🙌)
+- **Icomoji:** [emoji.far.st/💎🙌](https://emoji.far.st/💎🙌)
 - **Email:** business@pokymons.com
 - **Blog:** [Pokymon.Blog](https://poky.men/Blog)
 
