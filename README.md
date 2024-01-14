@@ -11,10 +11,10 @@ I'm a tech enthusiast from Indonesia with a knack for programming, cloud computi
 - **CSS:** TailwindCSS
 
 ## Projects 🚀
-- **[Icomoji](https://icomoji.far.st)**: A unique platform enabling the creation of biolink websites through emoji usernames. (Currently closed source)
+- **[Imoji](https://imoji.id)**: A unique platform enabling the creation of biolink websites through emoji usernames. (Currently closed source)
 
 ## Contact Me 📫
-- **Icomoji:** [emoji.far.st/💎🙌](https://emoji.far.st/💎🙌)
+- **Imoji:** [imoji.id/💎🙌](https://imoji.id/💎🙌)
 - **Email:** business@pokymons.com
 - **Blog:** [Pokymon.Blog](https://poky.men/Blog)
 
