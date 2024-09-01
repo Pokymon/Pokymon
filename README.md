@@ -18,8 +18,8 @@ I'm a tech enthusiast from Indonesia with a knack for programming, cloud computi
 - **[Imoji](https://start.imoji.id)**: A unique platform enabling the creation of biolink websites and payments through emoji usernames.
 
 ## Contact Me 📫
-- **Imoji:** [imoji.id/😉](https://imoji.id/😉)
-- **Email:** fauqi@hizbullah.xyz
-- **Blog:** [fauqi.com/blog](https://fauqi.com/blog)
+- **Imoji:** [imoji.id/💎🙌](https://imoji.id/💎🙌)
+- **Email:** business@pokymons.com
+- **Blog:** [Pokymon.Blog](https://poky.men/Blog)
 
 _This README is a gateway into my professional realm, a small reflection of my continuous endeavor in the tech world._
