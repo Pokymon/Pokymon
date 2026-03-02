@@ -1,13 +1,13 @@
 # Hi there, I'm Fauqi Amar Hizbullah 鍾文碩 종문석 👋
 
 ## About Me 🌱
-I'm a tech enthusiast from Indonesia with a knack for programming, cloud computing, and exploring the junction of technology and linguistics. With a passion rooted in technology since childhood, I embarked on my coding journey in junior high, which has blossomed into a realm of endless exploration. My personality type is ENTJ, which fuels my drive for innovation and impactful ventures. I cherish the harmonies of music, the nuances of languages, and the endless possibilities that code unfolds.
+I'm a tech enthusiast from Indonesia. I like technology, linguistics, and jazz fusion music.
 
 ## Technologies & Tools 🔧
 - **Languages:** PHP, JavaScript, TypeScript, Rust, Go, Ruby, Python
-- **Frameworks:** Laravel, Adonis.js, Loco.rs, Ruby on Rails, Django, Inertia.js, Nuxt.js, SvelteKit, Next.js, Vue.js, Svelte, React
+- **Frameworks:** Laravel, Adonis, Loco.rs, Ruby on Rails, Django, Inertia, Next, Nuxt, SvelteKit, React, Vue, Svelte
 - **CSS:** TailwindCSS
-- **Databases:** MySQL, MariaDB, PostgreSQL, SQLite
+- **Databases:** PostgreSQL, MySQL, MariaDB, SQLite
 - **Serverless Providers:** Vercel, Cloudflare Workers
 - **Cloud Providers:** Amazon Web Services, Azure, Google Cloud Platform, DigitalOcean, Vultr
 - **Operating Systems:** Linux (Ubuntu, Debian)
@@ -21,5 +21,3 @@ I'm a tech enthusiast from Indonesia with a knack for programming, cloud computi
 - **Imoji:** [imoji.id/💎🙌](https://imoji.id/💎🙌)
 - **Email:** fauqi@pokymon.com
 - **Blog:** [fauqi.com](https://fauqi.com)
-
-_This README is a gateway into my professional realm, a small reflection of my continuous endeavor in the tech world._
